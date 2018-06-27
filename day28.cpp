@@ -7,6 +7,8 @@ using namespace std;
 in an array if present. A majority element appears more than n/2 times where n is 
 the size of the array. */
 
+//testing
+
 main(){
     int n,i,majGuess,t;
     cin>>t;
